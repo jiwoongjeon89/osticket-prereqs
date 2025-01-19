@@ -145,48 +145,68 @@ To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
   <img width="1159" alt="19" src="https://github.com/user-attachments/assets/06d1643b-b28a-4e8a-800d-a678ec27b9d6" />
   You can see that the permissions were deleted.
   <br />
+</p>
+<p>
   <img width="1222" alt="20" src="https://github.com/user-attachments/assets/b08a3f68-9351-4df5-aa27-5022c751051e" />
   
 <img width="1212" alt="21" src="https://github.com/user-attachments/assets/fd0be893-d878-4175-bb96-54c060d690e7" />
 
 Now that we have deleted the permissions we will add a new permission with these steps: Add > Select a principal > Type ‘everyone’ > Check box next to Full Control > OK 
 <br />
+</p>
 
+<p>
 <img width="1212" alt="21" src="https://github.com/user-attachments/assets/225f8e13-17f5-45d0-9d69-7bc7fdbc01dc" />
 The permission should look like this.
 <br />
+</p>
 
+<p>
 <img width="2560" alt="23" src="https://github.com/user-attachments/assets/1ac58186-14c0-4add-ab2b-cb089204132b" />
 Go back to the osTicket site and press continue and fill out the blank spaces until the Admin User tabs. 
 <br />
+</p>
 
+<p>
 <img width="593" alt="24" src="https://github.com/user-attachments/assets/1779e7f7-c786-414a-bc5b-09beef38d053" />
 Before continuing to the Database Settings tabs we need to install HeidiSQL. Using the HeidiSQL we will be making a connection to the database and setup a database that osTicket can use.  
 <br />
+</p>
 
+<p>
 <img width="682" alt="25" src="https://github.com/user-attachments/assets/e093c05a-5584-478f-bf4c-22f91d39d623" />
 Follow these steps: New > Type “root” for the user and password > Open 
 <br />
+</p>
 
+<p>
 <img width="934" alt="26" src="https://github.com/user-attachments/assets/5d3f9779-1979-4437-b910-ba9e5989f151" />
 We have connected to the database and your page should look like this.
 <br />
+</p>
 
+<p>
 <img width="932" alt="27" src="https://github.com/user-attachments/assets/d7079d9f-7083-4242-a1cf-2ccc323a9ebc" />
 Now that we have connected to the database we will create a database for osTicket. Right Click Unnamed > Create New > Database and name it “osTicket” 
 <br />
+</p>
 
+<p>
 <img width="2560" alt="28" src="https://github.com/user-attachments/assets/88738529-a664-440b-a15d-1f47175f6333" />
 
 Go back to the osTicket site and fillout the Database Settings tabs. Then press Install Now. 
 <br />
+</p>
 
+<p>
 <img width="2560" alt="29" src="https://github.com/user-attachments/assets/731436d4-435a-4e20-ad72-5a6741704a6a" />
 When the osTicket was successfully downloads, refresh the osTicket database that we created and you will see the filled database.  
 <br />
+</p>
 
+<p>
 <img width="2560" alt="30" src="https://github.com/user-attachments/assets/93e22443-a30c-409c-a58f-2ca5d2b984e3" />
 Congratulations! We have downloaded osTicket and it is ready to use. 
-
 </p>
+
 
