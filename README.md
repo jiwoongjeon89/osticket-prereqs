@@ -45,7 +45,10 @@ I am now opening Windows App to run the virtual machine on my MacBook.
 
 </p>
 <p>
-I am in my virtual machine and before we install osTicket, we need to install and enable IIS in Windows with CGI. To do this, we need to go to ‘Control Panel > Programs > Programs and Features > Turn Windows features On and Off’. Then check the box next to Internet Information Services. We also need to check the box of CGI which is under ‘World Wide Web Services > Application Development Features’ 
+I am in my virtual machine and before we install osTicket, we need to install and enable IIS in Windows with CGI. 
+  To do this, we need to go to ‘Control Panel > Programs > Programs and Features > Turn Windows features On and Off’. 
+  Then check the box next to Internet Information Services. 
+  We also need to check the box of CGI which is under ‘World Wide Web Services > Application Development Features’ 
 </p>
 <br />
 <p>
@@ -85,7 +88,8 @@ I will start by installing PHP Manager.
 <p>
   <img width="1901" alt="10" src="https://github.com/user-attachments/assets/874f845e-49ec-4d02-930a-cb714ec1c97d" />
 <img width="1901" alt="11" src="https://github.com/user-attachments/assets/60c51add-1c5c-4f6c-8230-ecfa7e7c9f77" />
-  Now I will register PHP from within IIS through these steps: Open the IIS as Admin > PHP Manager > Register new PHP version > Browse to the PHP file we made earlier. Then we will reload the IIS. 
+  Now I will register PHP from within IIS through these steps: Open the IIS as Admin > PHP Manager > Register new PHP version > Browse to the PHP file we made earlier. 
+  Then we will reload the IIS. 
   <br>
 </p>
 <p>
