@@ -58,13 +58,15 @@ To do this, we need to go to ‘Control Panel > Programs > Programs and Features
 <p>
   <img width="1124" alt="3" src="https://github.com/user-attachments/assets/ac233253-0321-4599-ad95-919184997c97" />
 I will be downloading osTicket and some of the dependency files that osTicket needs. 
-  <br>
+<br>
 </p>
+
 <p>
   <img width="498" alt="5" src="https://github.com/user-attachments/assets/708a031f-10f9-43b8-8227-62591566a2bd" />
 I will start by installing PHP Manager.
-  <br>
+<br>
 </p>
+
 <p>
   <img width="498" alt="6" src="https://github.com/user-attachments/assets/6910ef0d-8a20-4f4d-adc0-c821ab7e076c" />
 
