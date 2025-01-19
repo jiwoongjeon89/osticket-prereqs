@@ -46,8 +46,12 @@ I am now opening Windows App to run the virtual machine on my MacBook.
 </p>
 <p>
 I am in my virtual machine and before we install osTicket, we need to install and enable IIS in Windows with CGI. 
-  \n To do this, we need to go to ‘Control Panel > Programs > Programs and Features > Turn Windows features On and Off’. 
-  \n Then check the box next to Internet Information Services. 
+  <p>
+To do this, we need to go to ‘Control Panel > Programs > Programs and Features > Turn Windows features On and Off’. 
+  </p>
+  <p>
+   Then check the box next to Internet Information Services. 
+  </p>
   We also need to check the box of CGI which is under ‘World Wide Web Services > Application Development Features’ 
 </p>
 <br />
